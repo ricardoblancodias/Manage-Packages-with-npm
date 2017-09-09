@@ -1,0 +1,4 @@
+ricardonpm
+ricardo0987
+ricardonpm@test.com
+https://registry.npmjs.org
