@@ -6,5 +6,7 @@
   "04 Install A Module",
   "05 Listing Dependencies",
   "06 npm Test",
-  "07 Package Niceties"
+  "07 Package Niceties",
+  "08 Publish",
+  "09 Version"
 ]

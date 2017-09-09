@@ -1,18 +1,20 @@
 {
-  "name": "@ricardonpm/pkg",
-  "version": "1.0.0",
+  "name": "ricardonpm",
+  "version": "1.0.2",
+  "description": "Testing npm!",
   "main": "index.js",
-  "scripts": {
-    "test": "node test.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "A NPM test project. ",
   "dependencies": {
     "@linclark/pkg": "^1.0.3"
   },
- "repository": {
-    "url": "https://glitch.com/edit/#!/welcome-project"
-  }
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://glitch.com/edit/#!/manage-packages-with-npm?path=README.md:1:0"
+  },
+  "author": "",
+  "license": "ISC"
 }
 
