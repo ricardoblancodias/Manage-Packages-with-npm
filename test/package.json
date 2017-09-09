@@ -1,6 +1,6 @@
 {
   "name": "ricardonpm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Testing npm!",
   "main": "index.js",
   "dependencies": {
@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node test.js" 
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -17,4 +17,3 @@
   "author": "",
   "license": "ISC"
 }
-
