@@ -8,5 +8,8 @@
   "06 npm Test",
   "07 Package Niceties",
   "08 Publish",
-  "09 Version"
+  "09 Version",
+  "13 Outdated",
+  "14 Update",
+  "15 Rm"
 ]

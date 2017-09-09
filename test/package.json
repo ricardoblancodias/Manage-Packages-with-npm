@@ -3,9 +3,7 @@
   "version": "1.0.3",
   "description": "Testing npm!",
   "main": "index.js",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.3"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "node test.js"
